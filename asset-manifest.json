@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-app-ikadev/static/css/main.073c9b0a.css",
+    "main.js": "/react-app-ikadev/static/js/main.0a2428ef.js",
+    "static/js/787.2a900b72.chunk.js": "/react-app-ikadev/static/js/787.2a900b72.chunk.js",
+    "static/media/logo.svg": "/react-app-ikadev/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-app-ikadev/index.html",
+    "main.073c9b0a.css.map": "/react-app-ikadev/static/css/main.073c9b0a.css.map",
+    "main.0a2428ef.js.map": "/react-app-ikadev/static/js/main.0a2428ef.js.map",
+    "787.2a900b72.chunk.js.map": "/react-app-ikadev/static/js/787.2a900b72.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.0a2428ef.js"
+  ]
+}
