@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import moncomponent from './moncomponent';
 
 function App() {
   return (
@@ -8,7 +9,11 @@ function App() {
         <h1>
           Hello World
         </h1>
+        
       </header>
+
+      <moncomponent />
+      
     </div>
   );
 }
